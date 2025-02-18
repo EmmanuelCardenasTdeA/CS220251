@@ -1,5 +1,4 @@
-package app.domain;
-
+package app.domain.models;
 import java.sql.Date;
 
 import lombok.Getter;
